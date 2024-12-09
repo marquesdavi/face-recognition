@@ -1,4 +1,10 @@
-# Facial recognition
+# Facial recognition System
+
+## Colaborators
+- [@marquesdavi](https://github.com/marquesdavi)
+- [@EdsKelvin](https://github.com/EdsKelvin)
+- [@antoniojaa20](https://github.com/antoniojaa20)
+- [@EdsKelvin](https://github.com/EdsKelvin)
 
 ## How to install
 
