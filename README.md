@@ -4,7 +4,7 @@
 - [@marquesdavi](https://github.com/marquesdavi)
 - [@EdsKelvin](https://github.com/EdsKelvin)
 - [@antoniojaa20](https://github.com/antoniojaa20)
-- [@EdsKelvin](https://github.com/EdsKelvin)
+- [@VictorAraujoB18](https://github.com/VictorAraujoB18)
 
 ## How to install
 
